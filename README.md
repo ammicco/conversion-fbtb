@@ -1,3 +1,5 @@
+# Concvert numbers from base to base
+
 A very simple c program that convert small numbers from a base to another.
 based on 3 function: 
  - convert decimal to another base.
@@ -7,3 +9,7 @@ based on 3 function:
 There's also a simple error handler in two case: 
  - indicate a wrong base. 
  - indicate less arguments. 
+
+<div align = "center">
+    <span><img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></span>
+</div>
