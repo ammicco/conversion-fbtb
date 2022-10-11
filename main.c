@@ -3,11 +3,11 @@
 
 #include "convert_base.h"
 
-void usage(void){
+static void usage(void){
     printf("Usage: ./convert \"source number\" \"source base\" \"dest base\".\n");
 }
 
-void math_err(void){
+static void math_err(void){
     printf("Math error! Your number isn't in that base.\n");
 }
 
