@@ -10,6 +10,15 @@ There's also a simple error handler in two case:
  - indicate a wrong base. 
  - indicate less arguments. 
 
+Start with:
+``` bash
+    make
+```
+Then: 
+``` bash
+    ./convert number source_base dest_base
+```
+
 <div align = "center">
     <span><img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></span>
 </div>
