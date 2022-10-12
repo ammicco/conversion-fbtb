@@ -60,7 +60,7 @@ int main(int argc, char **argv){
         return -1;
     }
 
-    if(source_base < 2 || dest_base < 2){
+    if(source_base < 2 || dest_base < 2 || source_base > 36 || dest_base > 36){
         base_error();
 
         return -1;
